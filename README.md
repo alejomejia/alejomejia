@@ -15,4 +15,4 @@ Currently improving my React skills: NextJS and React Native.
 [![Whatsapp_Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573192160752&text=Hi%20Alejo!%20I%20was%20checking%20your%20github%20profile...)
 
 
-**[My online resume](https://resume.alejandromejia.co/)**
+**[My online CV](https://alejandromejia.dev/cv.pdf)**
