@@ -1,16 +1,34 @@
-### 👋🏻 About me
+<a href="https://alejandromejia.dev">
+  <img alt="A large halftone cube on a dot grid, cropped by the frame" src="assets/cover.png">
+</a>
 
-I’m a passionate, proactive, with keen eye for details, Frontend Developer with +12 years of web experience. My passion is to build and maintain Design Systems, Websites and Apps, in NextJS / ReactJS and Storybook, working together with design and engineering teams.
+# Alejandro Mejía
 
-In my free time I like to study 📚 and play videogames 👾.
+**Senior Design Engineer** · Navarra, Spain
 
-### 👨🏻‍💻 What I'm focusing on
+I build design systems and the interfaces that use them: components, motion, accessibility and performance. 13+ years
+on the web, 8+ building production frontends in React, Next.js and TypeScript for global ecommerce, SaaS products and
+high-traffic marketing platforms.
 
-Currently improving my AI skills: Claude Code, Cursor, MCPs.
+My case studies, writing and UI experiments are on [alejandromejia.dev](https://alejandromejia.dev).
 
-### 🌎 Find me elsewhere
+### Work
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandromejiac/)
-[![Dribbble Badge](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/alejandromejia)
-[![Whatsapp_Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=34607222907&text=Hi%20Alejo!%20I%20was%20checking%20your%20github%20profile...)
+- **[Norte Design System](https://github.com/alejomejia/norte-design-system)** · The design system behind Norte, a
+  fictional AI agent workspace: tokens, components and a
+  [handbook](https://norte-design-system.alejandromejia.dev), built in public.
+- **[Norte app](https://github.com/alejomejia/norte-app)** · An example app built only from the Norte design system.
+- **[alejandromejia.dev](https://alejandromejia.dev)** · My portfolio. Work, Writing, Craft and my CV.
 
+### Now
+
+- Open to senior Design Engineer roles, remote.
+- Building Norte in public, one release at a time.
+- Working with AI agents: I write the conventions and skills they follow, and review what they build.
+
+### Elsewhere
+
+<p>
+  <a href="https://alejandromejia.dev"><img src="assets/buttons/portfolio.svg" alt="alejandromejia.dev" height="36"></a>
+  <a href="https://www.linkedin.com/in/alejandromejiac/"><img src="assets/buttons/linkedin.svg" alt="LinkedIn" height="36"></a>
+</p>
